@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/simpleform.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cvfake.html" beforeDir="false" afterPath="$PROJECT_DIR$/cvfake.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +42,7 @@
       <updated>1596720042084</updated>
       <workItem from="1596720043272" duration="8482000" />
       <workItem from="1596762894031" duration="135000" />
+      <workItem from="1596770864140" duration="1621000" />
     </task>
     <servers />
   </component>
@@ -53,5 +54,13 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1596728206795" />
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1596771416407">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.30.1536.834@0.30.1536.834" timestamp="1596771416407" />
+    <state x="514" y="75" width="672" height="678" key="search.everywhere.popup" timestamp="1596771416392">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="514" y="75" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1596771416392" />
   </component>
 </project>
