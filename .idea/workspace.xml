@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/THJS2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/THJS3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/THjs3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vd.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" afterPath="$PROJECT_DIR$/Module1/tablesimple.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTFormuser.html" beforeDir="false" afterPath="$PROJECT_DIR$/BTFormuser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +21,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -21,6 +29,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1fj8FxAnBhu795tVDtKkfhqkSUA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,8 +38,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../xampp/htdocs/hvac/about.html" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Downloads\MODULE1\Module1" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -43,7 +57,13 @@
       <workItem from="1596720043272" duration="8482000" />
       <workItem from="1596762894031" duration="135000" />
       <workItem from="1596770864140" duration="2583000" />
-      <workItem from="1596847673474" duration="1470000" />
+      <workItem from="1596847673474" duration="7242000" />
+      <workItem from="1596855276200" duration="7747000" />
+      <workItem from="1596875721893" duration="2488000" />
+      <workItem from="1596878350745" duration="2292000" />
+      <workItem from="1596903580580" duration="1473000" />
+      <workItem from="1597032392256" duration="1743000" />
+      <workItem from="1597050634458" duration="1209000" />
     </task>
     <servers />
   </component>
@@ -51,10 +71,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1596728206795">
+    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1596878254196">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1596728206795" />
+    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1596878254196" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1596771416407">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
