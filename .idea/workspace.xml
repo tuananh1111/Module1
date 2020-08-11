@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/THJS2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/THJS3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/THjs3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 7/THb7bai1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BTFormuser.html" beforeDir="false" afterPath="$PROJECT_DIR$/BTFormuser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTFormuser.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/BTFormuser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTLich.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/BTLich.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BTTKB.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/BTTKB.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Banco.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Banco.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/THJS.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/THJS.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/THJS2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/THJS2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/THJS3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/THJS3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/THjs3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/THjs3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sothichcuaban.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/sothichcuaban.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/taodanhsach.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/taodanhsach.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/thoikhoabieu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/thoikhoabieu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vd.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/vd.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,8 +27,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -63,7 +70,10 @@
       <workItem from="1596878350745" duration="2292000" />
       <workItem from="1596903580580" duration="1473000" />
       <workItem from="1597032392256" duration="1743000" />
-      <workItem from="1597050634458" duration="1209000" />
+      <workItem from="1597050634458" duration="1681000" />
+      <workItem from="1597054268305" duration="726000" />
+      <workItem from="1597066431613" duration="3977000" />
+      <workItem from="1597108820341" duration="1051000" />
     </task>
     <servers />
   </component>
@@ -71,6 +81,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="186" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597109104030">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="186" y="249" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1536.834@0.30.1536.834" timestamp="1597109104030" />
     <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1596878254196">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
