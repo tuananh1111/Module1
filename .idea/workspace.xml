@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai10.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai11.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
@@ -80,7 +73,7 @@
       <workItem from="1597214148468" duration="7738000" />
       <workItem from="1597225140741" duration="1248000" />
       <workItem from="1597242155147" duration="416000" />
-      <workItem from="1597242670095" duration="4727000" />
+      <workItem from="1597242670095" duration="6712000" />
     </task>
     <servers />
   </component>

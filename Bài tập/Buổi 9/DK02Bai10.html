@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let a = parseFloat(prompt('Nhập số điện tiêu dùng trong tháng này:'));
+    let price1= 3000;
+    let price2= 2500;
+    let price3= 2200;
+    if (a >= 200){
+        alert('Tiền điện phải trả là ' + a*price3);
+    }else if (a >= 100){
+        alert('Tiền điện phải trả là ' + a*price2);
+    }else alert('Tiền điện phải trả là ' + a*price1);
+</script>
+</body>
+</html>

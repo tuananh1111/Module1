@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    //Tính thuế thu nhập cá nhân dựa vào lương 1 tháng của người sở hữu
+    /*  Dưới 5tr thì thuế đóng 3%
+         Dưới 15tr thì thuế đóng 5%
+         Dưới 30tr thì thuế đóng 7%
+         Trên 30tr thì thuế đóng 10%
+     */
+    let earn= parseFloat(prompt('Nhập thu nhập cá nhân '));
+    if (earn <= 5000000){
+        alert('Thuế thu nhập cá nhân phải đóng là : ' + earn*0.03);
+    }else if (earn <= 15000000){
+        alert('Thuế thu nhập cá nhân phải đóng là : ' + earn*0.05);
+    }else if (earn <= 30000000){
+        alert("Thuế thu nhập cá nhân phải đóng là : " + earn*0.07);
+    }else alert('Thuế thu nhập cá nhân phải đóng là: ' + earn*0.1);
+</script>
+</body>
+</html>
