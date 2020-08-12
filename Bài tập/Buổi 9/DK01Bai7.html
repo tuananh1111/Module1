@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let minute = parseFloat(prompt('Nhập số phút mà gia đình đã dùng: ' ));
+    let price1 = 3000;
+    let price2 = 2000;
+    let price3 = 1500;
+    let price4 = 1200;
+    switch ((minute >= 200) ? 1 :(minute >= 150) ? 2 : (minute >= 100) ? 3 : 4){
+        case 1:
+            alert('Tiền điện thoại mà gia đình phải trả là :' + price1*minute);
+            break;
+            case 2:
+                alert('Tiền điện thoại mà gia đình phải trả là: ' + price2*minute);
+                break;
+                case 3:
+                    alert('Tiền điện thoại mà gia đình phải trả là: ' +price3*minute);
+                    break;
+                    case 4:
+                        alert('Tiền điện thoại mà gia đình phải trả là: ' +price4*minute);
+                        break;
+    }
+</script>
+</body>
+</html>
