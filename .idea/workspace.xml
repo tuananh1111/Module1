@@ -2,11 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/Chuỗi message.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/Chuỗi message.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/Toán tử ba ngôi.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/Toán tử ba ngôi.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case3.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +72,7 @@
       <workItem from="1597139389908" duration="2269000" />
       <workItem from="1597153556669" duration="2930000" />
       <workItem from="1597198416723" duration="8658000" />
-      <workItem from="1597214148468" duration="406000" />
+      <workItem from="1597214148468" duration="2709000" />
     </task>
     <servers />
   </component>
