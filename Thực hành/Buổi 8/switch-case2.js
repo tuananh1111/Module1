@@ -1,4 +1,4 @@
-let a = prompt('a?','');
+let a = parseInt(prompt('a?',''));
 switch (a) {
     case 0:
         alert(0);
