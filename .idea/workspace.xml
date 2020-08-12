@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/Thực hành if.. else.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/if...else...if.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/if...else..if.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
@@ -15,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -68,7 +69,7 @@
       <workItem from="1597133709539" duration="2999000" />
       <workItem from="1597139389908" duration="2269000" />
       <workItem from="1597153556669" duration="2930000" />
-      <workItem from="1597198416723" duration="3504000" />
+      <workItem from="1597198416723" duration="4861000" />
     </task>
     <servers />
   </component>
@@ -88,9 +89,9 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.30.1536.834@0.30.1536.834" timestamp="1596771416407" />
-    <state x="514" y="75" width="672" height="678" key="search.everywhere.popup" timestamp="1596771416392">
+    <state x="514" y="75" width="672" height="678" key="search.everywhere.popup" timestamp="1597202893484">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="514" y="75" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1596771416392" />
+    <state x="514" y="75" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1597202893484" />
   </component>
 </project>
