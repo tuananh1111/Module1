@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>$Title$</title>
+</head>
+<body>
+<script>
+  let a = parseFloat(prompt('Nhập điểm bài kiểm tra: '));
+  let b = parseFloat(prompt('Nhập điểm bài kiểm tra thi giữa kì: '));
+  let c = parseFloat(prompt('Nhập điểm bài kiểm tra thi cuối kì: '));
+  let d = (a +b*2 +c*3)/6;
+  if (d>=8.0){
+    alert("Học sinh Giỏi");
+  }else if (d>=6.5){
+    alert("Học sinh Tiên Tiến");
+  }else {
+    alert("Học sinh Trung Bình");
+  }
+</script>
+</body>
+</html>

@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/Chuỗi message.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/Chuỗi message.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/Toán tử ba ngôi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/Toán tử ba ngôi.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK01Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK01Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK01Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK01Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DK01Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/vidu.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
@@ -18,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -72,7 +74,8 @@
       <workItem from="1597139389908" duration="2269000" />
       <workItem from="1597153556669" duration="2930000" />
       <workItem from="1597198416723" duration="8658000" />
-      <workItem from="1597214148468" duration="2709000" />
+      <workItem from="1597214148468" duration="7738000" />
+      <workItem from="1597225140741" duration="897000" />
     </task>
     <servers />
   </component>
