@@ -2,8 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/if...else...if.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/if...else..if.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case3.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
@@ -69,7 +73,7 @@
       <workItem from="1597133709539" duration="2999000" />
       <workItem from="1597139389908" duration="2269000" />
       <workItem from="1597153556669" duration="2930000" />
-      <workItem from="1597198416723" duration="4861000" />
+      <workItem from="1597198416723" duration="7037000" />
     </task>
     <servers />
   </component>
@@ -77,6 +81,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="0" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597204474653">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="0" y="105" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.30.1536.834@0.30.1536.834" timestamp="1597204474653" />
     <state x="186" y="249" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1597109104030">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
