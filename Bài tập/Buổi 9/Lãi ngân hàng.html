@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    //vay 1 triệu thì trả lãi 5000vnd 1 ngày
+    //1tr trả lãi 150k 1 tháng
+    let a= parseFloat(prompt('Nhập tiền cần vay'));
+    let b= parseFloat(prompt('Nhập số tháng vay'))
+    let c= 150000;
+    let e= 300000;
+    let f= 1000000;
+    let d= 'Số tiền lãi cần phải trả là:';
+    if (b <=12 ){
+        alert( d + (a/f)*c*b + 'VND');
+    }else if(b>12) {
+        alert( d + Number((a/f)*c*12 + (a/f)*c*(b-12)));
+    }
+</script>
+</body>
+</html>
