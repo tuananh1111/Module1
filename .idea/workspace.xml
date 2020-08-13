@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/Sự kiện bàn phím.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DoYouLoveMe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
@@ -35,6 +35,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -74,7 +75,7 @@
       <workItem from="1597242155147" duration="416000" />
       <workItem from="1597242670095" duration="6917000" />
       <workItem from="1597280911721" duration="9199000" />
-      <workItem from="1597306592557" duration="2049000" />
+      <workItem from="1597306592557" duration="4513000" />
     </task>
     <servers />
   </component>
@@ -94,10 +95,18 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834@0.30.1536.834" timestamp="1596878254196" />
+    <state x="0" y="92" key="SettingsEditor" timestamp="1597309267257">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="0" y="92" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1597309267257" />
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup" timestamp="1596771416407">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.30.1536.834@0.30.1536.834" timestamp="1596771416407" />
+    <state x="264" y="321" width="609" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1597309194755">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="264" y="321" width="609" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.30.1536.834@0.30.1536.834" timestamp="1597309194755" />
     <state x="514" y="75" width="672" height="678" key="search.everywhere.popup" timestamp="1597246541341">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
