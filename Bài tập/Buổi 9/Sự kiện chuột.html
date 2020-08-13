@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<form>
+    <img style="left: 0px;position: relative " src="https://lh3.googleusercontent.com/proxy/CO51Db5Cki62HYt4C3wdT_7do5IqL43hI0zJHsKfOI9jtntOupeN1lrCcM4Rdx-xvCuv0sMjwEKyYh5alNoZTVXSsfSpPD7fmfQ4Y1FAbasm8yN-nrNlQvGBHxAshWSaNh4" id="myImage" style="width: 500px">
+    <p>Click button below to move the image to right</p>
+    <input type="button" value="Click Me" onclick="moveRight()"><br>
+    <script>
+        let imgObj = document.getElementById('myImage');
+        function moveRight(){
+            imgObj.style.left = parseInt(imgObj.style.left) + 10 +"px";
+        }
+    </script>
+</form>
+</body>
+</html>

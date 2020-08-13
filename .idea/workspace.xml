@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/Lãi ngân hàng.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/Sự kiện chuột.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
@@ -73,7 +73,7 @@
       <workItem from="1597225140741" duration="1248000" />
       <workItem from="1597242155147" duration="416000" />
       <workItem from="1597242670095" duration="6917000" />
-      <workItem from="1597280911721" duration="7712000" />
+      <workItem from="1597280911721" duration="9199000" />
     </task>
     <servers />
   </component>
