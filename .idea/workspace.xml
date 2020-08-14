@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/GoodFastCheap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapDoWhile1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapFor.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapFor2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapWhile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 10/SudungVongLapWhile2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DoYouLoveMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DoYouLoveMe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
     </list>
@@ -76,7 +81,9 @@
       <workItem from="1597242670095" duration="6917000" />
       <workItem from="1597280911721" duration="9199000" />
       <workItem from="1597306592557" duration="7484000" />
-      <workItem from="1597326748756" duration="290000" />
+      <workItem from="1597326748756" duration="1021000" />
+      <workItem from="1597333702188" duration="1101000" />
+      <workItem from="1597374746523" duration="4513000" />
     </task>
     <servers />
   </component>
@@ -104,6 +111,14 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.30.1536.834@0.30.1536.834" timestamp="1596771416407" />
+    <state x="94" y="130" width="734" height="640" key="dock-window-1" timestamp="1597377263843">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="94" y="130" width="734" height="640" key="dock-window-1/0.30.1536.834@0.30.1536.834" timestamp="1597377263843" />
+    <state x="94" y="130" width="734" height="640" key="dock-window-2" timestamp="1597377263843">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="94" y="130" width="734" height="640" key="dock-window-2/0.30.1536.834@0.30.1536.834" timestamp="1597377263843" />
     <state x="264" y="321" width="609" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1597309194755">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
