@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapDoWhile1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapFor.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapFor2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapWhile.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 10/SudungVongLapWhile2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapLongNhau.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DoYouLoveMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DoYouLoveMe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
     </list>
@@ -83,7 +78,7 @@
       <workItem from="1597306592557" duration="7484000" />
       <workItem from="1597326748756" duration="1021000" />
       <workItem from="1597333702188" duration="1101000" />
-      <workItem from="1597374746523" duration="4513000" />
+      <workItem from="1597374746523" duration="6292000" />
     </task>
     <servers />
   </component>
