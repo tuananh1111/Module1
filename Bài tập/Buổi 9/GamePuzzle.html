@@ -5,6 +5,43 @@
     <title>Title</title>
 </head>
 <body>
+<img id="img1" onclick="clickImg(1)" alt="1" src="images/anh1.jpg" style="width: 1000px; height: 500px">
+<img id="img2" onclick="clickImg(2)" alt="2" src="images/anh2.jpg"style="width: 1000px; height: 500px">
+<img id="img3" onclick="clickImg(3)" alt="3" src="images/anh3.jpg"style="width: 1000px; height: 500px">
 
+
+<script>
+    function clickImg(index) {
+        let img = document.getElementById("img"+index);
+        let count = +img.alt;
+
+        // if(count < 3){
+        //     count++;
+        // }else {
+        //     count = 1;
+        // }
+
+        // (count<3)?count++ : count=1;
+
+        count = Math.floor(Math.random()*3+1);
+
+        img.alt = count;
+        img.src = "images/anh"+ count+".jpg";
+        checkWin();
+    }
+
+    function checkWin() {
+        if(getImg(1).alt === getImg(2).alt && getImg(2).alt === getImg(3).alt ){
+            setTimeout(function () {
+                alert("You win");
+            },100);
+
+        }
+    }
+
+    function getImg(index) {
+        return document.getElementById("img"+index);
+    }
+</script>
 </body>
 </html>

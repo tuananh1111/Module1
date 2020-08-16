@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<p><input type="checkbox" id="good" value="Good"onclick="box('good')">Good</p>
+<p><input type="checkbox" id="fast" value="Fast"onclick="box('fast')">Fast</p>
+<p><input type="checkbox" id="cheap" value="Cheap"onclick="box('cheap')">Cheap</p>
+<script>
+    function box(adj){
+        let good = document.getElementById('good');
+        let fast = document.getElementById('fast');
+        let cheap = document.getElementById('cheap');
+        switch (adj) {
+            case 'good':
+                if (good.checked && fast.checked) {
+                    cheap.checked = false;
+                }
+            case 'fast':
+                if (fast.checked && cheap.checked) {
+                    good.checked = false;
+                }
+            case 'cheap':
+                if (cheap.checked && good.checked) {
+                    fast.checked = false;
+                }
+        }
+
+
+
+    }
+</script>
+</body>
+</html>
