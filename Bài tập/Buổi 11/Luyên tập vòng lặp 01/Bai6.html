@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 6</title>
+</head>
+<body>
+<script>
+    let num=+parseInt(prompt('Nhập số số chia hết cho 7:'));
+    let a= 1;
+    let sum=0;
+    let count=1;
+    while(count<=num){
+        if (a%7==0){
+            count++;
+            sum=sum+a;
+        }a++;
+    }
+
+    document.write(sum);
+</script>
+</body>
+</html>

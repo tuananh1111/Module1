@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2/images/anh1.jpg" beforeDir="false" />
@@ -96,7 +95,9 @@
       <workItem from="1597627399422" duration="4057000" />
       <workItem from="1597632216801" duration="5547000" />
       <workItem from="1597646259104" duration="1171000" />
-      <workItem from="1597652068125" duration="5143000" />
+      <workItem from="1597652068125" duration="6175000" />
+      <workItem from="1597671984433" duration="884000" />
+      <workItem from="1597672922042" duration="3668000" />
     </task>
     <servers />
   </component>
