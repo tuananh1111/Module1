@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Thực hành/goodfastcheap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/BangCuuChuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/HienThiSoNguyenDauTien.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DoYouLoveMe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/DoYouLoveMe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/GamePuzzle.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/GamePuzzle.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2/images/anh1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2/images/anh2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2/images/anh3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapLongNhau.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapLongNhau.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +90,10 @@
       <workItem from="1597396417928" duration="753000" />
       <workItem from="1597485547636" duration="608000" />
       <workItem from="1597540746123" duration="2697000" />
-      <workItem from="1597548914574" duration="1159000" />
+      <workItem from="1597548914574" duration="1670000" />
+      <workItem from="1597565848282" duration="654000" />
+      <workItem from="1597627399422" duration="4057000" />
+      <workItem from="1597632216801" duration="3006000" />
     </task>
     <servers />
   </component>

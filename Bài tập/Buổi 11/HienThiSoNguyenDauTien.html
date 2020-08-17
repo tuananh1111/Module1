@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="text" id="prime" placeholder="Nhập số số nguyên tố vào đây nè:">
+<input type="button" value="Xác nhận" onclick="check()">
+<div id="result"></div>
+<script>
+    function check(){
+        let numbers= +document.getElementById('prime').value;
+        let count = 0;
+        let N=2 ;
+
+        while(count<numbers){
+            if (isFrime(N)){
+                document.getElementById('result').innerHTML += N + ";"; ;
+                count++;
+            } N = N+1;
+        }
+    }
+
+
+    function isFrime(N){
+        if(N<2)
+            return false;
+        for (let i=2; i <= Math.sqrt(N); i++){
+            if (N%i==0)
+                return false;
+        } return true;
+    }
+</script>
+</body>
+</html>

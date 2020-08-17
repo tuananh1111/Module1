@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<script>
+    let cout = "<table border='1'width='600px' ; cellspacing='0'cellpadding='3'>";
+    for (i =1 ; i <10 ; i++){
+        cout = cout + '<tr>';
+        for (j = 2; j < 10; j++){
+            cout = cout + '<td>'+ j + 'x'+ i +'=' + i*j +'</td>';
+        }
+        cout = cout + '</tr>';
+    }
+    cout = cout + '</table>';
+    document.write(cout);
+</script>
+</body>
+</html>
