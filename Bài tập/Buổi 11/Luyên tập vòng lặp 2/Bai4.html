@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 4</title>
+</head>
+<body>
+<script>
+    let a= +parseInt(prompt("Nhập chiều rộng hình chữ nhật:"));
+    let b= +parseInt(prompt("Nhập chiều dài hình chữ nhật:"));
+    for (i=0; i<a; i++){
+        for (k=0; k<b; k++){
+            if ( i == 0 || i == a-1 || k == 0 || k == b-1 ){
+                document.write(" * ");
+            }
+            else document.write("&nbsp&nbsp&nbsp");
+
+        }document.write("<br>");
+    }
+</script>
+</body>
+</html>

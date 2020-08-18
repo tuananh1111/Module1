@@ -7,16 +7,16 @@
 <body>
 <script>
     let num=+parseInt(prompt('Nhập số số chia hết cho 7:'));
-    let a= 1;
-    let sum=0;
-    let count=1;
-    while(count<=num){
-        if (a%7==0){
+    let count=0;
+    let N=1;
+    let sum = 0;
+    while(count<num){
+        if (N%7==0){
+            sum=sum+N;
+            N++;
             count++;
-            sum=sum+a;
-        }a++;
+        }N++;
     }
-
     document.write(sum);
 </script>
 </body>

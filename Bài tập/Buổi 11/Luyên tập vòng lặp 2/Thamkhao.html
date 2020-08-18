@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<input type="button" onclick="angle('leftBot')" value="Triangle Left Bottom">
+<input type="button" onclick="angle('leftTop')" value="Triangle Left Top">
+<input type="button" onclick="angle('rightBot')" value="Triangle Right Bottom">
+<input type="button" onclick="angle('rightTop')" value="Triangle Right Top">
+<div id="displayTriangle"></div>
+​
+<script>
+    function angle(angle) {
+        let displayTriangle = document.getElementById('displayTriangle');
+        switch (angle) {
+            case "leftBot":
+                displayTriangle.innerHTML = ""
+                for (let i = 1; i <= 5 ; i++) {
+                    for (let j = 1; j <= i ; j++) {
+                        displayTriangle.innerHTML += "* ";
+                    }
+                    displayTriangle.innerHTML += "<br>";
+                }
+                break;
+            case "leftTop":
+                displayTriangle.innerHTML = ""
+                for (let i = 5; i >0 ; i--) {
+                    for (let j = 1; j <=i ; j++) {
+                        displayTriangle.innerHTML += "* ";
+                    }
+                    displayTriangle.innerHTML += "<br>";
+                }
+                break;
+            case "rightBot":
+                displayTriangle.innerHTML = ""
+                for (let i = 1; i <= 5 ; i++) {
+                    for (let k =5-i ; k >0 ; k--) {
+                        displayTriangle.innerHTML += "&nbsp;&nbsp;";
+                    }
+                    for (let j = 1; j <= i ; j++) {
+                        displayTriangle.innerHTML += "*";
+                    }
+                    displayTriangle.innerHTML += "<br>";
+                }
+                break;
+            case "rightTop":
+                displayTriangle.innerHTML = ""
+                for (let i = 5; i >0 ; i--) {
+                    for (let k = 5 - i ; k > 0  ; k--) {
+                        displayTriangle.innerHTML += "&nbsp;&nbsp;";
+                    }
+                    for (let j = 1; j <=i ; j++) {
+                        displayTriangle.innerHTML += "*";
+                    }
+​
+                    displayTriangle.innerHTML += "<br>";
+                }
+                break;
+        }
+​
+    }
+​
+</script>
+</body>
+</html>

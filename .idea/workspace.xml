@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 2/Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 2/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 2/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 2/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 2/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 2/Thamkhao.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai5.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2/images/anh1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/demo-puzzle2/images/anh2.jpg" beforeDir="false" />
@@ -97,7 +104,9 @@
       <workItem from="1597646259104" duration="1171000" />
       <workItem from="1597652068125" duration="6175000" />
       <workItem from="1597671984433" duration="884000" />
-      <workItem from="1597672922042" duration="3668000" />
+      <workItem from="1597672922042" duration="4309000" />
+      <workItem from="1597713819596" duration="10583000" />
+      <workItem from="1597735813712" duration="6768000" />
     </task>
     <servers />
   </component>
@@ -141,9 +150,9 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="264" y="321" width="609" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.30.1536.834@0.30.1536.834" timestamp="1597309194755" />
-    <state x="514" y="74" width="672" height="678" key="search.everywhere.popup" timestamp="1597653405642">
+    <state x="514" y="74" width="672" height="678" key="search.everywhere.popup" timestamp="1597718329092">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="514" y="74" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1597653405642" />
+    <state x="514" y="74" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1597718329092" />
   </component>
 </project>

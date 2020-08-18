@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hãy đoán thử xem</title>
+</head>
+<body>
+<input type="button" value="Chơi" id="play">
+<script>
+    let a= +parseInt(prompt("Đoán số trong khoảng từ: "));
+    let b= +parseInt(prompt('Đến :'));
+    let c= Math.random(a,b);
+    let d= parseInt(prompt("Chọn số đi:"));
+    for (i= a; i<=b; i++){
+        if (i==d && i==c){
+            alert('Chúc mừng!');
+        }else alert('Thua rồi');
+
+    }
+</script>
+</body>
+</html>

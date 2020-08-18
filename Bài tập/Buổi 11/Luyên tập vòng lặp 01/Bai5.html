@@ -7,14 +7,15 @@
 <body>
 <script>
     let num= +parseInt(prompt('Nhập tính tổng số số đầu tiên trong dãy fibonacci:'));
-    let f1=0;
-    let f2=1;
+    let f1=1;
+    let f2=0;
     let count = 0;
     let sum = 0;
     while(count<=num){
         f = f1+f2;
         f1=f2;
         f2=f;
+
         count++;
         sum=sum +f;
     }
