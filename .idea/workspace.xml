@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 12. Mảng 1/TaoVaThaoTacVoiMang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 12. Mảng 1/TimGiaTriLonNhatTrongMang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 12. Mảng 1/TimGiaTriTrongMang.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 12. Mảng 1/TaoBanCoCaroDonGian.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/images/anh1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/images/anh2.jpg" beforeDir="false" />
@@ -105,7 +98,8 @@
       <workItem from="1597672922042" duration="4309000" />
       <workItem from="1597713819596" duration="10583000" />
       <workItem from="1597735813712" duration="8442000" />
-      <workItem from="1597798515608" duration="8198000" />
+      <workItem from="1597798515608" duration="9505000" />
+      <workItem from="1597828699759" duration="1521000" />
     </task>
     <servers />
   </component>
