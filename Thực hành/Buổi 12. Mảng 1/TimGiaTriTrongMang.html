@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tìm giá trị trong mảng</title>
+</head>
+<body>
+<script>
+    let value= +parseInt(prompt('Nhập giá trị cần tìm: '));
+    let numbers = [1, 2, 5, 6, 8, 9, 16, 20];
+    for (let i =0; i < numbers.length; i++){
+        if (value ==numbers[i]){
+            alert('Giá trị ' + numbers[i] + ' cần tìm tại chỉ số ' + i);
+        }
+    }
+</script>
+</body>
+</html>

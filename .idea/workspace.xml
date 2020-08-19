@@ -2,139 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/BTBMI.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/BTswitchc-case.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK01Bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK01Bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK01Bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK01Bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK01Bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK01Bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK01Bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK02Bai1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK02Bai10.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK02Bai11.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK02Bai2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK02Bai3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK02Bai4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK02Bai5.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK02Bai6.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK02Bai7.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK02Bai8.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DK02Bai9.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/DoYouLoveMe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/GamePuzzle.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/GoodFastCheap.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/Lãi ngân hàng.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/MayTinh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/Sự kiện bàn phím.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/Sự kiện chuột.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/images/anh1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/images/anh2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/images/anh3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 12. Mảng 1/TaoVaThaoTacVoiMang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 12. Mảng 1/TimGiaTriLonNhatTrongMang.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 12. Mảng 1/TimGiaTriTrongMang.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/BTFormuser.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 5. HTML Form &amp; Table/BTFormuser.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/BTLich.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 5. HTML Form &amp; Table/BTLich.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/BTTKB.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 5. HTML Form &amp; Table/BTTKB.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Banco.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 5. HTML Form &amp; Table/Banco.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/BangCuuChuong.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/BangCuuChuong.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/HienThiSoNguyenDauTien.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/HienThiSoNguyenDauTien.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai6.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai6.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 01/Bai8.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai8.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 2/Bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 2/Bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 2/Bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 2/Bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 2/Bai5.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai5.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11/Luyên tập vòng lặp 2/Thamkhao.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Thamkhao.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/BTBMI.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/BTswitchc-case.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK01Bai1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK01Bai2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK01Bai3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK01Bai4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK01Bai5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK01Bai6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK01Bai7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai1.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai3.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai4.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai5.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai6.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai7.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai8.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DK02Bai9.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/DoYouLoveMe.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/GamePuzzle.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/GoodFastCheap.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/Lãi ngân hàng.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/MayTinh.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/Sự kiện bàn phím.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/Sự kiện chuột.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/images/anh1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/images/anh2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9/images/anh3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/Bài Tập Ứng dụng máy tính.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/Bài Tập Ứng dụng máy tính.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/Bài tập 1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/Bài tập 1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/Bài tập 3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/Bài tập 3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/Bài tập tiền tệ.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/Bài tập tiền tệ.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/bài tập 2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/bài tập 2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/bài tập 4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/bài tập 4.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/is.js" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/is.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/js ứng dụng máy tính.js" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/js ứng dụng máy tính.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/js1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/js1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/js2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/js2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/js3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/js3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/js4.js" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/js4.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/mau.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/mau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/buổi 7/mau.js" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 7. Biến, Kiểu dữ liệu và toán tử/mau.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/thoikhoabieu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 5. HTML Form &amp; Table/thoikhoabieu.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 01/Bai4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai4.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 11.Cấu trúc lặp 2/Luyên tập vòng lặp 2/Bai4.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/images/anh1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/images/anh2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/images/anh3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapDoWhile1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 10. Cấu trúc lặp 1/SuDungVongLapDoWhile1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapFor.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 10. Cấu trúc lặp 1/SuDungVongLapFor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapFor2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 10. Cấu trúc lặp 1/SuDungVongLapFor2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapLongNhau.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 10. Cấu trúc lặp 1/SuDungVongLapLongNhau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 10/SuDungVongLapWhile.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 10. Cấu trúc lặp 1/SuDungVongLapWhile.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 10/SudungVongLapWhile2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 10. Cấu trúc lặp 1/SudungVongLapWhile2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 7/THb7bai1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 7. Biến, kiểu dữ liệu và toán tử/THb7bai1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 7/THb7bai2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 7. Biến, kiểu dữ liệu và toán tử/THb7bai2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 7/THb7bai3area.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 7. Biến, kiểu dữ liệu và toán tử/THb7bai3area.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 7/Thực hành về nhà.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 7. Biến, kiểu dữ liệu và toán tử/Thực hành về nhà.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 7/Thực hành về nhà.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 7. Biến, kiểu dữ liệu và toán tử/Thực hành về nhà.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 7/js3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 7. Biến, kiểu dữ liệu và toán tử/js3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/Chuỗi message.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/Chuỗi message.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/Chuỗi message.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/Chuỗi message.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/Năm Nhuận.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/Năm Nhuận.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/Thực hành if.. else.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/Thực hành if.. else.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/Toán tử ba ngôi.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/Toán tử ba ngôi.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/Toán tử ba ngôi.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/Toán tử ba ngôi.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/if...else...if.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/if...else...if.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/if...else..if.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/if...else..if.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/năm nhuận.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/năm nhuận.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case1.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/switch-case1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case1.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/switch-case1.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/switch-case2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case2.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/switch-case2.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/switch-case3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/switch-case3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/switch-case3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 8/vidu.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 8. Cấu trúc điều kiện loại 1/vidu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/THJS.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 6. Tổng quan JavaScript/THJS.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/THJS2.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 6. Tổng quan JavaScript/THJS2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/THJS3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 6. Tổng quan JavaScript/THJS3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/THjs3.js" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 6. Tổng quan JavaScript/THjs3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/taodanhsach.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 4. Git &amp;HTML/taodanhsach.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/vd.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cvfake.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 4. Git &amp;HTML/cvfake.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,11 +51,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\DELL\Downloads\MODULE1\Thực hành\Buổi 6. Tổng quan JavaScript" />
+      <recent name="C:\Users\DELL\Downloads\MODULE1\Thực hành\Buổi 5. HTML Form &amp; Table" />
       <recent name="C:\Users\DELL\Downloads\MODULE1\Bài tập\Buổi 5. HTML Form &amp; Table" />
+      <recent name="C:\Users\DELL\Downloads\MODULE1\Thực hành\Buổi 6. Tổng quan JavaScript" />
       <recent name="C:\Users\DELL\Downloads\MODULE1\Bài tập\Buổi 4. Git &amp;HTML" />
       <recent name="C:\Users\DELL\Downloads\MODULE1\Bài tập\Buổi 9" />
-      <recent name="C:\Users\DELL\Downloads\MODULE1\Thực hành\Buổi 7" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -221,7 +104,8 @@
       <workItem from="1597671984433" duration="884000" />
       <workItem from="1597672922042" duration="4309000" />
       <workItem from="1597713819596" duration="10583000" />
-      <workItem from="1597735813712" duration="8085000" />
+      <workItem from="1597735813712" duration="8442000" />
+      <workItem from="1597798515608" duration="8198000" />
     </task>
     <servers />
   </component>
@@ -253,21 +137,21 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state width="254" height="198" key="ShowFilterAction_Filter_Popup/0.30.1536.834@0.30.1536.834" timestamp="1596771416407" />
-    <state x="94" y="130" width="734" height="640" key="dock-window-1" timestamp="1597377263843">
+    <state x="94" y="130" width="734" height="640" key="dock-window-1" timestamp="1597807532447">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="94" y="130" width="734" height="640" key="dock-window-1/0.30.1536.834@0.30.1536.834" timestamp="1597377263843" />
-    <state x="94" y="130" width="734" height="640" key="dock-window-2" timestamp="1597377263843">
+    <state x="94" y="130" width="734" height="640" key="dock-window-1/0.30.1536.834@0.30.1536.834" timestamp="1597807532447" />
+    <state x="94" y="130" width="734" height="640" key="dock-window-2" timestamp="1597807532447">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="94" y="130" width="734" height="640" key="dock-window-2/0.30.1536.834@0.30.1536.834" timestamp="1597377263843" />
+    <state x="94" y="130" width="734" height="640" key="dock-window-2/0.30.1536.834@0.30.1536.834" timestamp="1597807532447" />
     <state x="264" y="321" width="609" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1597309194755">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="264" y="321" width="609" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.30.1536.834@0.30.1536.834" timestamp="1597309194755" />
-    <state x="514" y="74" width="672" height="678" key="search.everywhere.popup" timestamp="1597718329092">
+    <state x="514" y="74" width="672" height="678" key="search.everywhere.popup" timestamp="1597808871005">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="514" y="74" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1597718329092" />
+    <state x="514" y="74" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1597808871005" />
   </component>
 </project>
