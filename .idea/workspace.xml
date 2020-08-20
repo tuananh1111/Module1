@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/Hàm push.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/SuDungCacHamSanCuamang.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/Từ điển.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Luyện tập/Mang1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/Luyện tập mảng 1/Bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/Luyện tập mảng 1/Bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/Luyện tập mảng 1/Bài 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/Luyện tập mảng 1/Bài 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/Luyện tập mảng 1/Bài 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Luyện tập/Xóa phần tử.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/images/anh1.jpg" beforeDir="false" />
@@ -15,7 +16,6 @@
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1" beforeDir="false" afterPath="$PROJECT_DIR$/Module1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Module1/tablesimple.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Thực hành/Buổi 12. Mảng 1/TaoVaThaoTacVoiMang.html" beforeDir="false" afterPath="$PROJECT_DIR$/Thực hành/Buổi 12. Mảng 1/TaoVaThaoTacVoiMang.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +106,8 @@
       <workItem from="1597798515608" duration="9505000" />
       <workItem from="1597828699759" duration="3165000" />
       <workItem from="1597848500184" duration="2301000" />
-      <workItem from="1597885545177" duration="9260000" />
+      <workItem from="1597885545177" duration="9650000" />
+      <workItem from="1597912294360" duration="5988000" />
     </task>
     <servers />
   </component>

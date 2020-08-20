@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 2</title>
+</head>
+<body>
+<script>
+    let arrs = [ 9, 10, 11, 15, 99, 16, 20, 21, 25, 30];
+    let index = 0;
+    let max = arrs[0];
+    function maxValue(arrs){
+        for (let i = 0; i< arrs.length; i++){
+            if (arrs[i]> max){
+                max = arrs[i];
+                index +=1 ;
+            }
+
+        }
+        return max;
+    }
+    // function indexMaxValue(arrs){
+    //     for (let i = 0; i < arrs.length; i++){
+    //         if (arrs[i] == maxValue(arrs)){
+    //             indexes.push(i);
+    //         }
+    //     }
+    //     return indexes;
+    // }
+
+
+
+
+    document.write('valueMax= ' + maxValue(arrs));
+    // document.write(indexMaxValue(arrs));
+    document.write('<br>'+'Chỉ số là: ' + index);
+
+</script>
+</body>
+</html>

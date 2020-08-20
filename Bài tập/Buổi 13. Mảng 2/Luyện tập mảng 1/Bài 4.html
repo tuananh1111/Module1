@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 4</title>
+</head>
+<body>
+<script>
+    let arrs = [3,5,3,1,4,7,9,2,5,6,10];
+    let first= 0;
+    let last = arrs.length -1;
+    while(first<last){
+        b= arrs[first];
+        arrs[first]=arrs[last];
+        arrs[last]= b;
+        first++;
+        last--;
+    }
+    document.write(arrs);
+</script>
+</body>
+</html>
