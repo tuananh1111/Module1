@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Từ điển</title>
+</head>
+<body>
+<input type="text" id="text" >
+<input type="button" id="check" value="Check" onclick="timKiem()">
+<div id="result" ></div>
+<script>
+
+    function timKiem(){
+        let english= ['apple', 'banana', 'tomato', 'crush'];
+        let vietnamese= ['quả táo', 'quả chuối', 'cà chua', 'người từng thương trộm nhớ'];
+        let a= document.getElementById('text').value;
+        let ketQua = "";
+        for(let i=0; i<english.length; i++){
+            if (a === english[i]){
+                ketQua = vietnamese[i];
+                break;
+            }else if (a === vietnamese[i]){
+                ketQua = english[i];
+                break;
+            }else ketQua= "Không tìm thấy";
+        }
+        document.getElementById('result').innerHTML = ketQua;
+    }
+
+
+
+
+</script>
+</body>
+</html>

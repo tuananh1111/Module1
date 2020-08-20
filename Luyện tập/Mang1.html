@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tạo và thao tác với mảng</title>
+</head>
+<body>
+<h1>Sample Screen</h1>
+<input type="text" id="num" >
+<input type="button" value="Add" onclick="addElement()">
+<input type="button" value="Display" onclick="displayArrays()">
+<div id="result"></div>
+<script>
+    let x = 0;
+    let a = Array();
+    function addElement(){
+         a[x]= document.getElementById('num').value;
+        alert("Element " + a[x] + " trong index " + x);
+        x++;
+        document.getElementById('num').value = "";
+    }
+    function displayArrays(){
+        let e = "<hr>";
+        for (let i=0; i<a.length; i++){
+            e += "Element: " + i + "=" + a[i] +"<br>";
+        }
+        document.getElementById('result').innerHTML = e;
+    }
+
+</script>
+</body>
+</html>
