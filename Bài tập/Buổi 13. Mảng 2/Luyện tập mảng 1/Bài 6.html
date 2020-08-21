@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 6</title>
+</head>
+<body>
+<script>
+    let arrs=[ 11,22,33,14,16,57,88,99,55];
+    let inputV= +prompt('Nhập số nguyên V vào đây: ');
+    let size= arrs.length;
+    let ketQua = "";
+    let dung= "V is in the array";
+    let sai= "V is not in the array";
+    for (let i=0; i< size; i++){
+        if (inputV == arrs[i]){
+            ketQua=dung;
+            break;
+        }
+        else {
+            ketQua = sai;
+            break;
+        }
+    }
+    document.write(ketQua);
+</script>
+</body>
+</html>

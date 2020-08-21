@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 8</title>
+</head>
+<body>
+<h1>
+    Nối 2 mảng a và b vào c, hiện mảng c sau khi nối.
+</h1>
+<script>
+    let a = [1, 2,5,6,9,10,15,16,12,30];
+    let b = [20,21,22,34,23,342,44,55,46,31];
+    let c = [];
+    document.write("mảng a: " + a);
+    document.write("<br> Mảng b: "+ b);
+    for (let i=0, j=0; i< a.length; i++){
+        c[j]=a[i];
+        j++;
+        c[j]=b[i];
+        j++;
+    }
+
+    document.write("<br> Mảng C sau khi nối a và b: "+ c);
+
+
+</script>
+</body>
+</html>

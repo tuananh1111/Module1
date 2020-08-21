@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 7</title>
+</head>
+<body>
+<script>
+    let nums = [10, 11, 12, 15, 16, 18, 19, 13, 20, 50];
+    let size= nums.length;
+
+    let V= +prompt('Nhập giá trị của V: ');
+    let indexV= 0
+     function checkV(nums){
+         for (let i=0; i<size; i++){
+             if(V == nums[i]){
+                 indexV+= i;
+                 deleteV()
+             }
+         } return nums;
+     }
+    function deleteV(){
+         for (let i=N-1; i>indexV; i--){
+             nums[i-1]=nums[i];
+         }
+         nums[size-1]=0;
+         return check();
+    }
+    document.write(nums);
+</script>
+</body>
+</html>
