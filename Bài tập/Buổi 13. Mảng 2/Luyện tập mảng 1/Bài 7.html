@@ -10,21 +10,24 @@
     let size= nums.length;
 
     let V= +prompt('Nhập giá trị của V: ');
-    let indexV= 0
-     function checkV(nums){
-         for (let i=0; i<size; i++){
-             if(V == nums[i]){
-                 indexV+= i;
-                 deleteV()
-             }
-         } return nums;
-     }
-    function deleteV(){
-         for (let i=N-1; i>indexV; i--){
-             nums[i-1]=nums[i];
-         }
-         nums[size-1]=0;
-         return check();
+    let indexV= 0;
+    //  function checkV(nums){
+    //      for (let i=0; i<size; i++){
+    //          if(V == nums[i]){
+    //              indexV+= i;
+    //              deleteV()
+    //          }
+    //      } return nums;
+    //  }
+
+    for(let i=0; i<size; i++){
+        if (nums[i]===V){
+            for (let j=i;j<size;j++){
+                nums[j]= nums[j+1];
+            }
+            nums[size-1]= 0;
+        }
+
     }
     document.write(nums);
 </script>

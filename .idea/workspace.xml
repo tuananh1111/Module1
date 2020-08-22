@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/TicTacToe.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/Type anything slowly.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/Luyện tập mảng 1/Bài 7.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/Luyện tập mảng 1/Bài 7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/images/anh1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/images/anh2.jpg" beforeDir="false" />
@@ -109,7 +108,7 @@
       <workItem from="1597985023432" duration="449000" />
       <workItem from="1598063534136" duration="8411000" />
       <workItem from="1598083479685" duration="5029000" />
-      <workItem from="1598111580041" duration="1152000" />
+      <workItem from="1598111580041" duration="3141000" />
     </task>
     <servers />
   </component>
