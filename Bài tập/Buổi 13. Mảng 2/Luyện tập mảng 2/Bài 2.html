@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 2</title>
+</head>
+<body>
+<h1>
+    In các ký tự đảo ngược.
+</h1>
+<script>
+    let arrs = ['c','c', 's','2', '1', '6'];
+    let first= 0;
+    let last= arrs.length -1;
+    while(first<last){
+        temp=arrs[first];
+        arrs[first]=arrs[last];
+        arrs[last]=temp;
+        first++;
+        last--;
+    }
+    for (let i=0; i<arrs.length; i++){
+        document.write(arrs[i]);
+    }
+
+</script>
+</body>
+</html>
