@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 6</title>
+</head>
+<body>
+<h1>Tìm  tất cả Kí tự "-" và thay thế bằng "_" </h1>
+<script>
+    let arrs= [1,5,"-", "Tuan Anh", "-", "Đẹp Trai"];
+    let temp;
+    document.write("Mảng ban đầu là =  ["+ arrs +"]" +"<br>");
+    for (let i=0; i<arrs.length; i++){
+        if (arrs[i]=== "-"){
+            temp=arrs[i];
+            arrs[i]="_";
+        }
+    }
+    document.write("Mảng lúc sau khi đổi ký tự và thành chuỗi là: ")
+    for (let i=0; i<arrs.length; i++){
+        document.write(arrs[i]);
+    }
+
+</script>
+</body>
+</html>

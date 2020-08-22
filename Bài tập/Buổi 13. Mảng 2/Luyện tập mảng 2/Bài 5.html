@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 5</title>
+</head>
+<body>
+<script>
+    // let nums=[];
+    // let arrs=[];
+    // for (let i=0; i<2; i++){
+    //     nums[i]= +parseInt(prompt('Nhập phần tử cho mảng nums: '));
+    //     nums.push(nums[i]);
+    //     arrs[i]=+parseInt(prompt('Nhập phẩn tử cho mảng arrs '));
+    //     arrs.push(arrs[i]);
+    // }
+    // document.write("Mảng 1 = "+nums +"<br>");
+    // document.write("Mảng 2 = "+arrs);
+    // let result= "";
+    // let isSame= "Hai chuỗi giống nhau";
+    // let isNotSame= "Hai chuỗi không giống nhau"
+    //
+    // for (let i=0; i<nums.length; i++){
+    //     if (nums[i]!=arrs[i]){
+    //         result==isNotSame;
+    //     }else result==isSame;
+    // }
+    // document.write(result);
+
+    let strs1= prompt('Nhập chuỗi vào đây:');
+    let strs2= prompt('Nhập chuỗi vào đây:');
+    let size1= strs1.length;
+    let size2=strs2.length;
+    let result= "";
+    let isSame= "Hai chuỗi giống nhau";
+    let isNotSame= "Hai chuỗi không giống nhau";
+    if (size1!=size2){
+        document.write(isNotSame);
+
+    }
+    for (let i=0; i<size1; i++){
+        if(strs1[i]==strs2[i]){
+            result=isSame;
+            break;
+        } else if (strs1[i]!=strs2[i]){
+            result=isNotSame;
+            break;
+        }
+
+    }
+    document.write(result);
+</script>
+</body>
+</html>
