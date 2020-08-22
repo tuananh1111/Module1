@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vui vui</title>
+</head>
+<body>
+<h1>Gõ vào đây điều bạn muốn nói:</h1>
+<form name="form">
+    <textarea name="txt" id="text" cols="50" rows="10" onkeydown="typeText()"></textarea>
+</form>
+<script>
+    let a = [], n= "";
+    a[1]='T';a[2]="U";a[3]="Ấ";a[4]="N";a[5]=" ";a[6]='A';a[7]="N";a[8]='H';a[9]='!';a[10]="!";
+    function typeText(){
+        t=document.form.txt.value;
+        j=t.length;
+        if (j>0){
+            for (let i=1;i<=j; i++){
+                n = n+a[i];
+                if (i==10){
+                    document.form.txt.value= "";
+                    n="";
+                }
+            }
+        }
+        document.form.txt.value = n;
+        n="";
+        setTimeout("typeText()", 1);
+    }
+</script>
+</body>
+</html>
