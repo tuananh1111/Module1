@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Palindrome</title>
+</head>
+<body>
+<script>
+    let string= prompt("nhập chuỗi vào đây để kiểm tra:");
+    function checkPalindrome(arr){
+        let first=0;
+        let last= arr.length-1;
+        while (first<last){
+            if (arr[first]===arr[last]){
+                first++;
+                last--;
+            }else return false;
+        }return true;
+    }
+    if (checkPalindrome(string)){
+        alert("Là xâu Palindrome.");
+    }else alert("Không là xâu Palindrome.");
+</script>
+</body>
+</html>
