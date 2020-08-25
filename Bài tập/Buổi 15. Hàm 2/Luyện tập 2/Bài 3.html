@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>BÀi 3</title>
+</head>
+<body>
+<h2>Tính giai thừa của 1 số bất kì.</h2>
+<script>
+    function func(num){
+        if(num==2){
+            return 2
+        }return  num*func(num-1);
+    }
+    let a= +prompt("Nhập số bất kỳ: ");
+    document.write("Giai thừa của "+ a + " là " + func(a));
+</script>
+</body>
+</html>

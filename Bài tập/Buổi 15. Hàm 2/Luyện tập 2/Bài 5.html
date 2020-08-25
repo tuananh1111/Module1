@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 5</title>
+</head>
+<body>
+<script>
+    let nums= [];
+    for (let i=0; i<3; i++){
+        let a= +parseInt(prompt("Nhập số nguyên bất kì"));
+        nums.push(a);
+    }
+    document.write(nums + "<br>");
+    function minArr(arrs){
+        let min=arrs[0];
+        for (let i=0; i<arrs.length; i++){
+            if (arrs[i]<min){
+                min=arrs[i];
+            }
+        }return min;
+    }
+    let min= minArr(nums);
+    document.write("Giá trị nhỏ nhất trong mảng là: "+ min);
+</script>
+</body>
+</html>

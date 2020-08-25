@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 7</title>
+</head>
+<body>
+<script>
+    let arr=[];
+    for (let i=0; i<2; i++){
+        let a=parseInt(prompt("Nhập số :"));
+        arr.push(a);
+    }
+    function changeNumber(nums){
+       let temp;
+        temp=nums[0];
+        nums[0]=nums[1];
+        nums[1]=temp;
+        return nums;
+    }
+    let V=changeNumber(arr);
+    document.write("Sau khi chuyển vị trí 2 số là: " + V);
+</script>
+</body>
+</html>

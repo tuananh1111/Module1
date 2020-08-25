@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chuyển đổi giữa feet và meters</title>
+</head>
+<body>
+<input type="text" id="number" >
+<input type="button" value="Chuyển sang meters" onclick="fToM()">
+<input type="button" value="Chuyển sang feet" onclick="mToF()">
+<div id="meter"> </div><br>
+<div id="feet"> </div>
+<script>
+
+
+    function feetToMeter(number){
+        return  (0.305)*number;
+    }
+    function meterToFeet(number){
+        return (3.279)*number;
+
+    }
+    function fToM(){
+        let V=document.getElementById('number').value;
+        document.getElementById('meter').innerHTML= feetToMeter(V);
+    }
+    function mToF(){
+        let V=document.getElementById('number').value;
+        document.getElementById('feet').innerHTML= meterToFeet(V);
+    }
+
+    // let isPr= feetToMeter(V);
+    // document.write(isPr);
+    // let isNotPr=meterToFeet(V);
+    // document.write(isNotPr);
+</script>
+</body>
+</html>

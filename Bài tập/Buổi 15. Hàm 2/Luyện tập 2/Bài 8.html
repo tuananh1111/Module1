@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 8</title>
+</head>
+<body>
+<script>
+    function convertNumber(arr){
+        let first=0, temp;
+        let last=arr.length -1;
+        while (first<last){
+            temp=arr[first];
+            arr[first]=arr[last];
+            arr[last]=temp;
+            last--;
+            first++;
+        }
+        return arr;
+    }
+    let nums=[];
+    for (let i=0; i<5; i++){
+        let a=parseInt(prompt("Nhập số nguyên vào mảng:"));
+        nums.push(a);
+    }
+    document.write("Hàm ban đầu: "+ nums +"<br>");
+    let a=convertNumber(nums);
+    document.write("Hàm lúc sau khi đổi là: "+ a);
+
+</script>
+</body>
+</html>

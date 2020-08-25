@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 6</title>
+</head>
+<body>
+<script>
+
+    function checkInt(number){
+        if (number<0){
+            return false;
+        }else if (number%1==0){
+            return true;
+        }return  false;
+    }
+    let V = +prompt("Nhập số bất kỳ vào đây ");
+    if (checkInt(V)){
+        alert(" Là số nguyên ");
+    }else alert("Không là số nguyên ");
+</script>
+</body>
+</html>

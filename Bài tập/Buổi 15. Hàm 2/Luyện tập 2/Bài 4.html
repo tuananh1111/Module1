@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 4</title>
+</head>
+<body>
+<script>
+    function kyTuSo(number){
+        let string= "0123456789";
+        if (string.indexOf(number)>=0){
+            return true;
+        }return false;
+    }
+    let V=prompt("Nhập bất cứ điều gì:");
+    if (kyTuSo(V)){
+        alert("Là ký tự số");
+    }else alert("Không là kí tự số");
+
+</script>
+</body>
+</html>

@@ -2,11 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 15. Hàm 1/Chuyển đổi nhiệt độ.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 15. Hàm 1/Tìm giá trị nhỏ nhất của mảnh.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 15. Hàm 1/Tạo và gọi hàm.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Chuyển đổi giữa feet và meters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Kiểm tra số nguyên tố.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 1/Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 1/Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 1/Bai4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 1/Bai5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 1/Bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 2/Bài 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 2/Bài 2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 2/Bài 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 2/Bài 4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 2/Bài 5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 2/Bài 6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 2/Bài 7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 2/Bài 8.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Luyện tập 2/Bài 9.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Ứng dụng quản lí.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 15. Hàm 2/Ứng dụng quản lý sản phẩm.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/TicTacToe.html" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 13. Mảng 2/TicTacToe.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/images/anh1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/images/anh2.jpg" beforeDir="false" />
@@ -113,7 +127,16 @@
       <workItem from="1598083479685" duration="5029000" />
       <workItem from="1598111580041" duration="3385000" />
       <workItem from="1598196686183" duration="2143000" />
-      <workItem from="1598236791107" duration="4418000" />
+      <workItem from="1598236791107" duration="7684000" />
+      <workItem from="1598256160948" duration="5611000" />
+      <workItem from="1598261935131" duration="2291000" />
+      <workItem from="1598278212132" duration="2866000" />
+      <workItem from="1598281838989" duration="2421000" />
+      <workItem from="1598318472119" duration="188000" />
+      <workItem from="1598318681983" duration="1229000" />
+      <workItem from="1598320552978" duration="1736000" />
+      <workItem from="1598325668061" duration="5657000" />
+      <workItem from="1598343333636" duration="4149000" />
     </task>
     <servers />
   </component>
@@ -157,9 +180,9 @@
       <screen x="0" y="30" width="1536" height="834" />
     </state>
     <state x="264" y="321" width="609" height="281" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.30.1536.834@0.30.1536.834" timestamp="1597309194755" />
-    <state x="514" y="74" width="672" height="678" key="search.everywhere.popup" timestamp="1597808871005">
+    <state x="514" y="74" width="672" height="678" key="search.everywhere.popup" timestamp="1598242605738">
       <screen x="0" y="30" width="1536" height="834" />
     </state>
-    <state x="514" y="74" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1597808871005" />
+    <state x="514" y="74" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1598242605738" />
   </component>
 </project>

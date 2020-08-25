@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bài 9</title>
+</head>
+<body>
+<script>
+    let a=[1,2,4,5,6,5,3,4,2];
+    function checkKyTu(arr) {
+        let count = 0;
+        let b = parseInt(prompt("Nhập ký tự vào đây"));
+        for (let i = 0; i < arr.length; i++) {
+            if (arr[i] === b) {
+                count++;
+            }
+        }return count;
+    }
+    document.write("Số lần xuất hiện là "+checkKyTu(a));
+
+
+
+</script>
+</body>
+</html>

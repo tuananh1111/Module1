@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>bài 5</title>
+</head>
+<body>
+<script>
+    let stars= ['Polaris', 'Aldebaran', 'Deneb', 'Vega', 'Altair', 'Dubhe','Regulus'];
+    let coverStars=['Ursa Minor', 'Tarurus', 'Cygnus', 'Lyra', 'Aquila', 'Ursa Major','Leo'];
+    function findCoverStar(arr1, arr2){
+        let a= prompt("Nhập tên ngôi sao:");
+        let e="Khong có chòm sao nào cả!"
+        for (let i=0; i<arr1.length; i++){
+            if (arr1[i]==a){
+                let c=arr2[i];
+                return document.write("Chòm sao tương ứng với ngôi sao "+a+" là "+c);
+            }
+        }
+        return e;
+    }
+
+    let b= document.write(findCoverStar(stars, coverStars));
+
+</script>
+</body>
+</html>
