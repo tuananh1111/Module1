@@ -2,9 +2,54 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>Ứng dụng quản lí</title>
 </head>
 <body>
+<h2>Add New Product</h2>
+<div>
+    <form>
+        <input type="text" id="newproduct"  placeholder="New Product">
+        <input type="button" value="Add" onclick="addNewProduct()">
+    </form>
+</div>
+<br>
+<h2>Display All Product</h2>
+<div id="display"></div>
+<script>
+    let product=["Samsung", "Apple", "Sony", "Xiaomi", "Oppo","Dell"];
+    drawTable(product);
+    function drawTable(){
+        let string= "<table border='1' width='200px' >";
+        for (let i=0; i<product.length;i++){
+            string+="<tr bgcolor='#ff8c00'>";
+            string+="<td style='align-content: center'>" + product[i]+ "</td>";
+            string+="<td><input type='button' style='background-color: cornsilk;align-content: center' value='Edit' onclick='editProduct("+i+")'></td>";
+            string+="<td><input type='button' style='background-color: aqua;align-content: center' value='Delete' onclick='deleteProduct("+i+")'></td>";
+            string+="</tr>";
+        }
+         string+="</table>";
+        document.getElementById('display').innerHTML= string;
+    }
+    function addNewProduct(){
+        let pro=document.getElementById('newproduct').value;
+        if (pro!=""){
+            product.push(pro);
+            drawTable(product);
+            document.getElementById('newproduct').value= "";
+        }else alert("nhập sản phẩm coi");
+    }
+    function editProduct(index){
+        let newPro=prompt("Nhập tên mới: ", product[index]);
+        product[index]=newPro;
+        drawTable(product);
 
+    }
+    function deleteProduct(index){
+        if (confirm("Bạn có chắc chắn muốn xóa không?")){
+            product.splice(index,1);
+            drawTable(product);
+        }
+    }
+</script>
 </body>
 </html>
