@@ -2,11 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bebf868e-c51c-4bbb-9d3a-69ee06cc6b36" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 16. Lập trình hướng đối tượng 1/Funny Circles.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 16. Lập trình hướng đối tượng 1/Mô tả hình chữ nhật.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 16. Lập trình hướng đối tượng 1/Mô tả hình chữ nhật.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 16. Lập trình hướng đối tượng 1/Temperature.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 17. Lập trình hướng đối tượng 2/AdamAndEva/AdamEva.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 17. Lập trình hướng đối tượng 2/AdamAndEva/Apple.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 17. Lập trình hướng đối tượng 2/AdamAndEva/Human.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 17. Lập trình hướng đối tượng 2/Cat and Mouse/Cat and Mouse.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 17. Lập trình hướng đối tượng 2/Cat and Mouse/Cat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 17. Lập trình hướng đối tượng 2/Cat and Mouse/Mouse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 17. Lập trình hướng đối tượng 2/Game đơn giản.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 17. Lập trình hướng đối tượng 2/anh1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bài tập/Buổi 17. Lập trình hướng đối tượng 2/anhcho.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 16. Lập trình hướng đối tượng 1/Xây dựng lớp mô phỏng đèn pin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 16. Lập trình hướng đối tượng 1/Xây dựng mô tả điện thoại/Mobile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Thực hành/Buổi 16. Lập trình hướng đối tượng 1/Xây dựng mô tả điện thoại/Mobile.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2" beforeDir="false" afterPath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/images/anh1.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Bài tập/Buổi 9. Cấu trúc điều kiện loại 2/demo-puzzle2/images/anh2.jpg" beforeDir="false" />
@@ -41,11 +50,14 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Bài tập/Buổi 17. Lập trình hướng đối tượng 2" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Downloads\MODULE1\Bài tập\Buổi 17. Lập trình hướng đối tượng 2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\DELL\Downloads\MODULE1\Thực hành\Buổi 5. HTML Form &amp; Table" />
       <recent name="C:\Users\DELL\Downloads\MODULE1\Bài tập\Buổi 5. HTML Form &amp; Table" />
@@ -127,7 +139,9 @@
       <workItem from="1598410924277" duration="5796000" />
       <workItem from="1598431101021" duration="1772000" />
       <workItem from="1598451594471" duration="5398000" />
-      <workItem from="1598490514067" duration="2751000" />
+      <workItem from="1598490514067" duration="9858000" />
+      <workItem from="1598518790697" duration="4279000" />
+      <workItem from="1598538398510" duration="3703000" />
     </task>
     <servers />
   </component>

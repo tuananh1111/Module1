@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Cat and mouse</title>
+    <script src="Cat.js"></script>
+    <script src="Mouse.js"></script>
+</head>
+<body>
+<script>
+    let cat=new Cat("Cat", 15, 20);
+    let mouse=new Mouse("Jerry", 3, 15);
+    cat.makeNoise();
+    mouse.makeNoise();
+    cat.catchMouse(mouse);
+    document.write("Ok");
+</script>
+</body>
+</html>
