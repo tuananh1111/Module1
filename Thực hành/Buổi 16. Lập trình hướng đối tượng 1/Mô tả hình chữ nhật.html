@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mô tả hình chữ nhật</title>
+</head>
+<body>
+<div id="chuvi"></div>
+<br>
+<div id="dientich"></div>
+<br>
+<br>
+<br>
+<canvas id="myCanvas" width="1368px" height="768px" style="border:1px solid #d3d3d3;">
+    <script>
+        function Rectangle(x, y){
+            this.x =x;
+            this.y =y;
+            this.getX= function (){
+                return this.x;
+            };
+            this.getY= function (){
+                return this.y;
+            };
+
+            this.getArea= function (){
+                return this.x*this.y;
+            };
+            this.getCover= function (){
+                return (this.x+this.y)*2;
+            };
+        }
+
+        function TinhToan(){
+            let rectangle= new Rectangle(300,200);
+            let area= rectangle.getArea();
+            let cover= rectangle.getCover();
+            document.getElementById("chuvi").innerHTML="Chu vi hình chữ nhật là: "+cover;
+            document.getElementById("dientich").innerHTML="Diện tích hình chữ nhật là: "+area;
+        }
+        function CreatRetangle(){
+            let rectangle= new Rectangle(300,200);
+            let ctx= document.getElementById("myCanvas").getContext("2d");
+            ctx.fillStyle= "#FF0000";
+            ctx.fillRect(0,0,rectangle.getX(),rectangle.getY());
+
+        }
+       CreatRetangle();
+        TinhToan();
+    </script>
+</body>
+</html>

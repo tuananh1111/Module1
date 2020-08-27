@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Temperature</title>
+</head>
+<body>
+<script>
+    function Temperature(C){
+        this.C=C;
+        this.toF =function (){
+            return C*9/5+32;
+        };
+        this.toKevin= function (){
+            return C+273.15;
+        };
+    }
+    let temperature= new Temperature(25);
+    document.write("Từ 25.C chuyển thành: ");
+    document.write(temperature.toF() +" độ F");
+    document.write(" và = "+temperature.toKevin() +" độ Kevin");
+
+</script>
+</body>
+</html>
