@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="ElectricLamp.js"></script>
+    <script src="SwitchButton.js"></script>
+</head>
+<body>
+<script>
+ let lamp= new ElectricLamp("Bóng đèn tắt");
+ let switch1 = new SwitchButton();
+switch1.connectToLamp(lamp);
+for (let i=1; i<11;i++){
+   switch1.switchOff(lamp);
+
+   switch1.switchOn(lamp);document.write("Lần"+ i+"<br>");
+}
+
+
+</script>
+</body>
+</html>

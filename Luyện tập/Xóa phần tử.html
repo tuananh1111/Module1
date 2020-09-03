@@ -5,6 +5,23 @@
     <title></title>
 </head>
 <body>
-
+<script>
+    let nums=[1,5,2,4]
+    function swap(arr) {
+        //your code here
+        let temp;
+        let first=0;
+        let last= arr.length-1;
+        while(first<last){
+            temp=arr[first];
+            arr[first]=arr[last];
+            arr[last]=temp;
+            first++;
+            last--;
+        }
+        return arr;
+    }
+    document.write(swap(nums));
+</script>
 </body>
 </html>
