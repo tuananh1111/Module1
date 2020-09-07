@@ -1,12 +1,25 @@
-function Remote(code){
-    this.code=code;
-    this.controlChanel=function (){
-       Remote.upChanel= document.write(" +1 kênh ");
-        Remote.dowChanel=document.write(" -1 kênh ");
+
+
+class Remote{
+    constructor(code) {
+        this.code = code;
     };
-    this.controlVolume=function (){
-      Remote.upVolume= document.write("Tăng 1 âm lượng");
-      Remote.dowVolume= document.write("Giảm 1 âm lượng");
+    Controls(){
+        this.code = +prompt("enter your channel")
     };
-    this.turnOff=true;
+    channel(TV){
+        if (!TV.status){
+            alert("plz turnOn TV");
+        } else {
+            TV.Status();
+        }
+    };
+    turnOnTV(TV){
+        TV.turnOnTV();
+        TV.status = true;
+    };
+    turnOffTV(TV){
+        TV.turnOffTV();
+        TV.status = false;
+    };
 }

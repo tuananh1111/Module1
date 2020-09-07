@@ -1,21 +1,40 @@
-function Tivi(remote){
-    this.remote=remote;
-    this.status=false;
-    this.nowChanel= function (){
-        Tivi.status=true;
-        document.write(" Kênh đang phát là kênh 0 ");
+class TV {
+    constructor(channel, volume, status) {
+        this.channel = channel;
+        this.volume = volume;
+        this.status = status;
     };
-    this.nowVolume=function (){
-        Tivi.status=true;
-        document.write(" Âm lượng đang là 1 ");
+    move(Remote) {
+        if (this.status){
+            Remote.Controls()
+            this.channel = Remote.code;
+        } else {
+            alert("plz turnOn TV");
+        }
     };
-
-    this.changeChanel=function (Remote){
-        Tivi.status=true;
-        Remote.controlChanel();
+    Status() {
+        alert("current channel: " + this.channel + ", current volume: " + this.volume)
     };
-    this.changVolume= function (Remote){
-        Tivi.status=true;
-        Remote.controlVolume();
+    volumeUp() {
+        if (this.status) {
+            this.volume += 1;
+            alert(this.volume);
+        } else {
+            alert("plz turnOn TV")
+        }
+    }
+    volumeDown() {
+        if (this.status) {
+            this.volume -= 1;
+            alert(this.volume);
+        } else {
+            alert("plz turnOn TV")
+        }
+    }
+    turnOnTV() {
+        alert("TV on");
+    };
+    turnOffTV() {
+        alert("TV off");
     }
 }

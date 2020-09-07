@@ -7,16 +7,17 @@
 <body>
 <script>
     let a = parseInt(prompt('Nhập giá trị nhiệt độ vào đây:'));
-    while (a <=100){
-        while (a<=20){
-            alert('Tăng nhiệt độ lên đi em');
-            a++;
+    while(a>=0) {
+        if (a < 20) {
+            alert("tăng nhiệt độ lên");
+            break;
+        } else if (a > 100) {
+            alert("giảm nhiệt độ xuống");
+            break;
+        } else {
+            alert('Nhiệt độ là ' + a);
+            break;
         }
-
-    }
-    while(a>100){
-        alert('Giảm nhiệt độ đi em');
-        a--;
     }
 </script>
 </body>
